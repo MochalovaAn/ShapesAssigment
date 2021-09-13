@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TestTack", "TestTack\TestTack.vcxproj", "{266FEAB6-05DB-4CED-B915-F1D512F1A952}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{266FEAB6-05DB-4CED-B915-F1D512F1A952}.Debug|x64.ActiveCfg = Debug|x64
+		{266FEAB6-05DB-4CED-B915-F1D512F1A952}.Debug|x64.Build.0 = Debug|x64
+		{266FEAB6-05DB-4CED-B915-F1D512F1A952}.Debug|x86.ActiveCfg = Debug|Win32
+		{266FEAB6-05DB-4CED-B915-F1D512F1A952}.Debug|x86.Build.0 = Debug|Win32
+		{266FEAB6-05DB-4CED-B915-F1D512F1A952}.Release|x64.ActiveCfg = Release|x64
+		{266FEAB6-05DB-4CED-B915-F1D512F1A952}.Release|x64.Build.0 = Release|x64
+		{266FEAB6-05DB-4CED-B915-F1D512F1A952}.Release|x86.ActiveCfg = Release|Win32
+		{266FEAB6-05DB-4CED-B915-F1D512F1A952}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0378BA47-2D6A-480D-B8B5-247E1A5CD6D6}
+	EndGlobalSection
+EndGlobal
